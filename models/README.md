@@ -19,7 +19,8 @@ fixed       10 Hz, 10-second windows, D=128
 supported   Torch, Recording, NPZ; optional SNIRF, MNE Raw, and device adapters
 ```
 
-> [!WARNING] **CHANNEL ORDER MUST MATCH**
+> [!WARNING]
+> **CHANNEL ORDER MUST MATCH**
 >
 > The channel axis of `signal`, `ch_types`, `ch_names`, `ch_pos_1005`, and
 > `ch_pos_1005_valid` must use exactly the same order. A mismatched order can
