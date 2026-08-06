@@ -51,6 +51,12 @@ flowchart LR
     review --> download["Export TSV / JSON / NPZ or batch ZIP"]
 ```
 
+<p align="center">
+    <img src="../assets/mtsi1005-ui.png" alt="MtSi1005 interface showing an aligned montage in the 3D review and export stage" width="900">
+</p>
+
+<p align="center"><em>Review an aligned montage in 3D before exporting TSV, JSON, or NPZ.</em></p>
+
 ### Supported inputs
 
 | Input | Required content | Entry point |
