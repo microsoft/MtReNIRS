@@ -4,9 +4,8 @@
 
 <div align="center">
 
-# MtReNIRS
 
-### Montage-aligned Transferable Representations for fNIRS
+## MtReNIRS: Montage-aligned Transferable Representations for fNIRS
 
 [Models](models/) · [Montage alignment](alignment/) · **Paper coming soon**
 
@@ -55,7 +54,7 @@ Install both packages for end-to-end development:
 
 ```bash
 
-git clone <github-url>
+git clone https://github.com/msr-central/MtReNIRS
 
 cd MtReNIRS
 
@@ -174,7 +173,7 @@ head-to-head benchmark.
 ## Documentation
 
 - [MtReNIRS model guide](models/README.md)
-- [MtSi1005 alignment guide](alignment/README.md)
+- [MtSi1005 alignment tookit guide](alignment/README.md)
 - [Model quickstart notebook](models/examples/MtReNIRS_quickstart.ipynb)
 - [Montage alignment examples](alignment/examples_opensource_fnirs/pretraining_montage_examples.ipynb)
 
