@@ -1,0 +1,28 @@
+{
+  "method": "canonical_labels",
+  "rows": 10,
+  "valid_rows": 10,
+  "slot_labels": [
+    "Fp1",
+    "Fp1",
+    "Fp2",
+    "F7",
+    "F8",
+    "C3",
+    "Cz",
+    "C4",
+    "Oz",
+    "Oz"
+  ],
+  "distance_unit": "n/a",
+  "collision_slots": {
+    "Fp1": [
+      "left-a",
+      "left-b"
+    ],
+    "Oz": [
+      "back-a",
+      "back-b"
+    ]
+  }
+}

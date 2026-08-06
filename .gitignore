@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+
+# Build outputs
+build/
+dist/
+
+# Local files
+.vscode/
+.env
+.env.*
+*.log
+output/
+outputs/
+montage-alignment-output/

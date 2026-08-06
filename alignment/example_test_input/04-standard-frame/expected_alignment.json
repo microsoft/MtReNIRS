@@ -1,0 +1,19 @@
+{
+  "method": "canonical_3d_nearest",
+  "rows": 10,
+  "valid_rows": 10,
+  "slot_labels": [
+    "Fp1",
+    "Fp2",
+    "F7",
+    "F8",
+    "C3",
+    "Cz",
+    "C4",
+    "P3",
+    "P4",
+    "Oz"
+  ],
+  "distance_unit": "m",
+  "collision_slots": {}
+}
