@@ -52,7 +52,7 @@ flowchart LR
 ```
 
 <p align="center">
-    <img src="../assets/mtsi1005-ui.png" alt="MtSi1005 interface showing an aligned montage in the 3D review and export stage" width="900">
+    <kbd><img src="../assets/mtsi1005-ui.png" alt="MtSi1005 interface showing an aligned montage in the 3D review and export stage" width="900"></kbd>
 </p>
 
 <p align="center"><em>Review an aligned montage in 3D before exporting TSV, JSON, or NPZ.</em></p>
