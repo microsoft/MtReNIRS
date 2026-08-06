@@ -1,4 +1,8 @@
 <div align="center">
+    <img src="./assets/mtrenirs-logo.jpeg" alt="MtReNIRS" width="720">
+</div>
+
+<div align="center">
 
 # MtReNIRS
 
