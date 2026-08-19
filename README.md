@@ -177,7 +177,18 @@ head-to-head benchmark.
 - [Model quickstart notebook](models/examples/MtReNIRS_quickstart.ipynb)
 - [Montage alignment examples](alignment/examples_opensource_fnirs/pretraining_montage_examples.ipynb)
 
+## Project policies
+
+- Contributions: [CONTRIBUTING.md](CONTRIBUTING.md)
+- Code of conduct: [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
+- Security reporting: [SECURITY.md](SECURITY.md)
+- MIT license: [LICENSE.txt](LICENSE.txt)
+- Third-party software notices: [NOTICE](NOTICE)
+
 ## Privacy
 
-This package does not collect, transmit, or store any data. All processing is
-local. See the [Microsoft Privacy Statement](https://go.microsoft.com/fwlink/?LinkId=521839).
+MtReNIRS does not implement project-specific telemetry or transmit research
+inputs and outputs to its maintainers. The optional Streamlit interface may
+send framework-level usage statistics under Streamlit's default configuration.
+See [PRIVACY.md](PRIVACY.md) for scope, local and remote deployment behavior,
+and opt-out instructions.
