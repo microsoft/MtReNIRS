@@ -1,3 +1,6 @@
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT license.
+
 # pyright: reportMissingImports=false
 
 import numpy as np

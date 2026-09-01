@@ -1,3 +1,6 @@
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT license.
+
 """Public API for the MtReNIRS foundation model."""
 
 from .model import EmbeddingResult, MtReNIRS

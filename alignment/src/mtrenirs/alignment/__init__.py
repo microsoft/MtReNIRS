@@ -1,3 +1,6 @@
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT license.
+
 """Public API for the MtSi1005 montage alignment toolkit."""
 
 from .alignment import align, align_optodes, load_reference

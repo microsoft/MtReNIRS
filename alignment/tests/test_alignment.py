@@ -1,3 +1,6 @@
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT license.
+
 import numpy as np
 
 from mtrenirs.alignment import align, align_optodes, from_mne_raw, load_reference, load_snirf
