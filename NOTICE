@@ -1,0 +1,30 @@
+MtReNIRS
+Copyright (c) Microsoft Corporation.
+
+THIRD-PARTY SOFTWARE NOTICES AND INFORMATION
+
+This project depends on third-party software. The MIT License for MtReNIRS does
+not replace the licenses for these dependencies. The respective copyright
+holders retain all rights granted by their licenses.
+
+The following direct build, runtime, optional, and test dependencies are
+declared by the Python packages in this repository. They are obtained
+separately through Python package distribution channels and are not relicensed
+under the MtReNIRS license.
+
+- h5py - BSD 3-Clause License - https://www.h5py.org/
+- Hatchling - MIT License - https://hatch.pypa.io/
+- Matplotlib - Matplotlib License (PSF-based) - https://matplotlib.org/
+- MNE-Python - BSD 3-Clause License - https://mne.tools/
+- NumPy - BSD 3-Clause License - https://numpy.org/
+- Plotly.py - MIT License - https://plotly.com/python/
+- pyxdf - MIT License - https://github.com/xdf-modules/pyxdf
+- pytest - MIT License - https://pytest.org/
+- PyTorch - BSD 3-Clause License - https://pytorch.org/
+- SciPy - BSD 3-Clause License - https://scipy.org/
+- Streamlit - Apache License 2.0 - https://streamlit.io/
+
+These packages may have transitive dependencies of their own. Installed or
+redistributed copies remain subject to the copyright notices and license terms
+provided with those packages. Review the dependency metadata for the versions
+you distribute.

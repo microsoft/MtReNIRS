@@ -1,0 +1,80 @@
+{
+  "ch_names": [
+    "left-front",
+    "right-front",
+    "left-frontal",
+    "right-frontal",
+    "left-center",
+    "center",
+    "right-center",
+    "left-back",
+    "right-back",
+    "back-center"
+  ],
+  "ch_pos": [
+    [
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0
+    ]
+  ],
+  "canonical_labels": [
+    "Fp1",
+    "Fp2",
+    "F7",
+    "F8",
+    "C3",
+    "Cz",
+    "C4",
+    "P3",
+    "P4",
+    "Oz"
+  ],
+  "meta_ch_pos_unit": "m",
+  "meta_ch_pos_frame": "head"
+}

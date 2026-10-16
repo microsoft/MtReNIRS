@@ -1,0 +1,10 @@
+channel x y
+front 0.000 0.080
+front-left -0.050 0.055
+front-right 0.050 0.055
+left -0.070 0.000
+center 0.000 0.000
+right 0.070 0.000
+back-left -0.045 -0.055
+back 0.000 -0.070
+back-right 0.045 -0.055

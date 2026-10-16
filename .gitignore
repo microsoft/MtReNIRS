@@ -1,0 +1,50 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Packaging and build output
+*.egg-info/
+build/
+dist/
+wheelhouse/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Coverage
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local application output
+output/
+outputs/
+montage-alignment-output/
+*.log
+
+# Local environment and credentials
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+
+# Temporary files
+*.tmp
+*.temp
+*~

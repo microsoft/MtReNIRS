@@ -1,0 +1,18 @@
+{
+  "method": "isotropic_2d_nearest",
+  "rows": 9,
+  "valid_rows": 9,
+  "slot_labels": [
+    "AFpz",
+    "AFF5",
+    "AFF6",
+    "T7h",
+    "Cz",
+    "T8h",
+    "PPO7",
+    "OIz",
+    "PPO8"
+  ],
+  "distance_unit": "projection",
+  "collision_slots": {}
+}

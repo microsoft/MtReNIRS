@@ -1,0 +1,17 @@
+name	type	x	y	z
+S1	source	-60	45	55
+S2	source	-30	75	60
+S3	source	0	85	65
+S4	source	30	75	60
+S5	source	60	45	55
+S6	source	-50	-20	55
+S7	source	0	-55	60
+S8	source	50	-20	55
+D1	detector	-35	45	55
+D2	detector	-5	75	60
+D3	detector	20	85	65
+D4	detector	55	75	60
+D5	detector	35	45	55
+D6	detector	-25	-20	55
+D7	detector	20	-55	60
+D8	detector	25	-20	55

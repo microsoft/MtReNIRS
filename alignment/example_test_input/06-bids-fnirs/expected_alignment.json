@@ -1,0 +1,17 @@
+{
+  "method": "isotropic_3d_nearest",
+  "rows": 8,
+  "valid_rows": 8,
+  "slot_labels": [
+    "FTT7h",
+    "AFF3",
+    "AF2h",
+    "F6h",
+    "FC6",
+    "PPO7h",
+    "Oz",
+    "PO8h"
+  ],
+  "distance_unit": "m",
+  "collision_slots": {}
+}
