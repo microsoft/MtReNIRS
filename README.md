@@ -189,6 +189,27 @@ The following datasets are used only for downstream evaluation and are not inclu
 - [Model quickstart notebook](models/examples/MtReNIRS_quickstart.ipynb)
 - [Montage alignment examples](alignment/examples_opensource_fnirs/pretraining_montage_examples.ipynb)
 
+## Citation
+
+If you use MtReNIRS, please cite the accompanying paper. It has been submitted
+to the IEEE Open Journal of Signal Processing (OJSP) as part of the ICASSP 2027
+track; the decision is pending, so publication details will be added when
+available.
+
+> Tony Chae, Kleanthis Avramidis, Dimitra Emmanouilidou, and Ivan J. Tashev,
+> “MtReNIRS: A Self-Supervised Foundation Model for Transferable Neurovascular
+> Representations,” submitted to *IEEE Open Journal of Signal Processing* as
+> part of the ICASSP 2027 track.
+
+```bibtex
+@unpublished{chae-mtrenirs,
+  author = {Tony Chae and Kleanthis Avramidis and Dimitra Emmanouilidou and Ivan J. Tashev},
+  title = {MtReNIRS: A Self-Supervised Foundation Model for Transferable Neurovascular Representations},
+  note = {Submitted to the IEEE Open Journal of Signal Processing as part of the ICASSP 2027 track; decision pending}
+}
+```
+
+
 ## Project policies
 
 - Contributions: [CONTRIBUTING.md](CONTRIBUTING.md)
