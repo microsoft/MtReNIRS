@@ -202,10 +202,14 @@ available.
 > part of the ICASSP 2027 track.
 
 ```bibtex
-@unpublished{chae-mtrenirs,
-  author = {Tony Chae and Kleanthis Avramidis and Dimitra Emmanouilidou and Ivan J. Tashev},
-  title = {MtReNIRS: A Self-Supervised Foundation Model for Transferable Neurovascular Representations},
-  note = {Submitted to the IEEE Open Journal of Signal Processing as part of the ICASSP 2027 track; decision pending}
+@misc{chae2026mtrenirsselfsupervisedfoundationmodel,
+      title={MtReNIRS: A Self-Supervised Foundation Model for Transferable Neurovascular Representations}, 
+      author={Tony Chae and Kleanthis Avramidis and Dimitra Emmanouilidou and Ivan J. Tashev},
+      year={2026},
+      eprint={2610.36159},
+      archivePrefix={arXiv},
+      primaryClass={eess.SP},
+      url={https://arxiv.org/abs/2610.36159}, 
 }
 ```
 
