@@ -7,7 +7,7 @@
 
 ## MtReNIRS: Montage-aligned Transferable Representations for fNIRS
 
-[Models](models/) · [Montage alignment](alignment/) · **Paper coming soon**
+[Models](models/) · [Montage alignment](alignment/) · [Paper coming soon](https://arxiv.org/abs/2610.36159)
 
 </div>
 
